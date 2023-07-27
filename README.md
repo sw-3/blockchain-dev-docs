@@ -11,6 +11,8 @@ related to blockchain which are in active development and open to new contributo
 If you are trying to land your first job as a blockchain developer, being a code 
 contributor to a blockchain project will boost your resume!
 
+*Revisions.md* is a revision history for the docs here.
+
 
 ## Disclaimer
 I am still relatively new to blockchain development while compiling these notes. I 
