@@ -1,17 +1,17 @@
 # blockchain-dev-docs
 Some documents I created for those learning blockchain development.
 
-*BlockchainDevNotes* is a collection of my personal notes on using Hardhat to develop 
+- ***BlockchainDevNotes*** -- a collection of my personal notes on using Hardhat to develop 
 blockchain dApps with Solidity smart contracts and a React.js front-end. I must credit 
 **Dapp University** for much of the learnings in these notes.  Check out their YouTube 
 channel if you want to learn Ethereum-based blockchain development!
 
-*BlockchainOpenSourceProjects.xlsx* is a spreadsheet containing Open Source projects 
+- ***BlockchainOpenSourceProjects.xlsx*** -- a spreadsheet containing Open Source projects 
 related to blockchain which are in active development and open to new contributors.
 If you are trying to land your first job as a blockchain developer, being a code 
 contributor to a blockchain project will boost your resume!
 
-*Revisions.md* is a revision history for the docs here.
+- ***Revisions.md*** -- revision history for the docs here.
 
 
 ## Disclaimer
